@@ -1,3 +1,3 @@
-Até aqui o treinamento da GAMA tem sido bastante proveitoso,
-não utilizava o GitHub há alguns anos, preferia o repl.it.
-Esse conteúdo sobre Git me fez retornar.
+AtÃ© aqui, o treinamento da GAMA tem sido bastante proveitoso.
+NÃ£o utilizava o GitHub hÃ¡ alguns anos, preferia o repl.it.
+O conteÃºdo sobre Git me fez retornar Ã  esta distinta plataforma.
